@@ -1,0 +1,4 @@
+modelo,arquitectura,parametros_millones,accuracy,precision,recall,f1_score,latencia_ms,accuracy_pct,precision_pct,recall_pct,f1_score_pct
+ConvNeXt-Tiny,CNN moderna,28.6,0.965,0.944550669,0.988,0.965786901,6.58454054,96.5,94.45506692,98.8,96.57869013
+ViT-Base,Vision Transformer,86.6,0.961,0.930841121,0.996,0.962318841,16.02747113,96.1,93.08411215,99.6,96.23188406
+ResNet-50,CNN residual,25.6,0.706,0.662974684,0.838,0.740282686,7.25487973,70.6,66.29746835,83.8,74.02826855
