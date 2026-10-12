@@ -1,4 +1,4 @@
-"""Configuracion comun del experimento de clasificacion de pitting."""
+"""Configuracion del experimento de clasificacion de pitting."""
 
 SEED = 42
 IMAGE_SIZE = 224
